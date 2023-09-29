@@ -7,7 +7,7 @@
 </head>
 <body>
 	<h1>ITMD-361 Internet Technologies and Web Design</h1>
-	<h3>Spring 2013</h3>
+	<h3>Fall 2023</h3>
 	<p>Antonio waters and awaters3hawk.iit.edu </p>
 	<h2>Professor:</h2>
 	<p>Daniel Krieglestien </p>
